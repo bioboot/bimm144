@@ -1,7 +1,7 @@
 ---
 title: "Class 10: Haloween Candy Mini Project"
 author: "Barry"
-format: html
+format: gfm
 ---
 
 ## Background
